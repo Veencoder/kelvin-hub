@@ -1,0 +1,136 @@
+body{
+  color: #40514e;
+  margin: 0px;
+  text-align: center;
+  font-family: 'sacramento',cursive;
+  font-size: 20px;
+
+
+}
+.mountain-img{
+  width: 50%;
+}
+
+h1{
+  color: #3282b8;
+  margin-top: : 50px auto 0 auto;
+  font-family: 'sacramento',cursive;
+  font-size: 5.62rem;
+}
+h2{
+  color: #3282b8;
+  font-family: 'sacramento',cursive;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+h3{
+  color: #3282b8;
+  font-family: 'sacramento',cursive;
+    font-size: 1.875rem;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted;
+  border-bottom: none;
+  border-width: 6px;
+  color: #68b0ab;
+  margin: 100px auto;
+  width: 4%;
+}
+.top-container{
+  background-color: #bbe1fa;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #ecf4f3;
+  padding: 0 0 30px;
+}
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 0 30px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.footer-link{
+  color: #3282b8;
+  padding: 10px 20px;
+}
+.footer{
+  color: white;
+  font-size: 0.75rem;
+  padding-top: 20px 0px;
+}
+a:hover{
+  color: white;
+}
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 500px;
+}
+.skill-row1{
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.img-1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+
+}
+.img-2{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+
+}
+.btn {
+  background: #34d9c3;
+  background-image: -webkit-linear-gradient(top, #34d9c3, #2980b9);
+  background-image: -moz-linear-gradient(top, #34d9c3, #2980b9);
+  background-image: -ms-linear-gradient(top, #34d9c3, #2980b9);
+  background-image: -o-linear-gradient(top, #34d9c3, #2980b9);
+  background-image: linear-gradient(to bottom, #34d9c3, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'sacramento',cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3c7cfc;
+  background-image: -webkit-linear-gradient(top, #3c7cfc, #34c6d9);
+  background-image: -moz-linear-gradient(top, #3c7cfc, #34c6d9);
+  background-image: -ms-linear-gradient(top, #3c7cfc, #34c6d9);
+  background-image: -o-linear-gradient(top, #3c7cfc, #34c6d9);
+  background-image: linear-gradient(to bottom, #3c7cfc, #34c6d9);
+  text-decoration: none;
+}
